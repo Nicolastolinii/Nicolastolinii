@@ -7,13 +7,13 @@ Hɪ, ɪ'ᴍ Nɪᴄᴏʟᴀs Tᴏʟɪɴɪ!
 
 <br>
 <h2 align="center">ᴀʙᴏᴜᴛ ᴍᴇ 👨‍💻</h2>
-<div align="center">
-  <div style="width: 60%; display: inline-block; vertical-align: top; text-align: left;">
+<div style="display: flex; justify-content: center; align-items: center;">
+  <div style="flex: 1; text-align: left; padding-right: 10px;">
     <p>
       Soy un desarrollador apasionado por la programación y la tecnología, con experiencia en desarrollo web y software. Me encanta aprender nuevas tecnologías y trabajar en proyectos interesantes.
     </p>
   </div>
-  <div style="width: 30%; display: inline-block; vertical-align: top; text-align: center;">
+  <div style="flex: 1; text-align: center;">
     <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" alt="About Me Gif"/>
   </div>
 </div>
