@@ -1,12 +1,12 @@
 <h1 align="center">
-Hi, I'm Nicolas Tolini!
+Hɪ, ɪ'ᴍ Nɪᴄᴏʟᴀs Tᴏʟɪɴɪ!
 	<a href="https://github.com/Bouaskaoun" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
 
 <br>
-<h2 align="center">About Me 👨‍💻</h2>
+<h2 align="center">ᴀʙᴏᴜᴛ ᴍᴇ 👨‍💻</h2>
 <p align="center">
   Soy un desarrollador apasionado por la programación y la tecnología, con experiencia en desarrollo web y software. Me encanta aprender nuevas tecnologías y trabajar en proyectos interesantes.
 </p>
@@ -14,7 +14,7 @@ Hi, I'm Nicolas Tolini!
 
 
 
-<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> Skills</h2>
+<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> sᴋɪʟʟs </h2>
 <p align="center">
     <!-- Lenguajes de Programación -->
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -96,7 +96,7 @@ Hi, I'm Nicolas Tolini!
 <br />
 
 <div align="center">
-  <h2>🔥 Recent activity</h2>
+  <h2>🔥 Rᴇᴄᴇɴᴛ ᴀᴄᴛɪᴠɪᴛʏ</h2>
   <a href="https://github.com/Nicolastolinii">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nicolastolinii&theme=nightowl" alt="Actividad Reciente"/>
   </a>
