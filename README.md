@@ -7,18 +7,19 @@ Hɪ, ɪ'ᴍ Nɪᴄᴏʟᴀs Tᴏʟɪɴɪ!
 
 <br>
 <h2 align="center">ᴀʙᴏᴜᴛ ᴍᴇ 👨‍💻</h2>
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td style="width: 70%; text-align: left; border: none; padding: 0;">
-      <p>
-        Soy un desarrollador apasionado por la programación y la tecnología, con experiencia en desarrollo web y software. Me encanta aprender nuevas tecnologías y trabajar en proyectos interesantes.
-      </p>
-    </td>
-    <td style="width: 30%; text-align: center; border: none; padding: 0;">
-      <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" alt="About Me Gif"/>
-    </td>
-  </tr>
-</table>
+<h2 align="center">About Me 👨‍💻</h2>
+
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
+  <div style="width: 60%; text-align: left; padding: 10px;">
+    <p>
+      Soy un desarrollador apasionado por la programación y la tecnología, con experiencia en desarrollo web y software. Me encanta aprender nuevas tecnologías y trabajar en proyectos interesantes.
+    </p>
+  </div>
+  <div style="width: 40%; text-align: center; padding: 10px;">
+    <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" alt="About Me Gif"/>
+  </div>
+</div>
+
 <br>
 
 
