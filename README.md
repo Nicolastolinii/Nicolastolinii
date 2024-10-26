@@ -9,12 +9,12 @@ Hɪ, ɪ'ᴍ Nɪᴄᴏʟᴀs Tᴏʟɪɴɪ!
 <h2 align="center">ᴀʙᴏᴜᴛ ᴍᴇ 👨‍💻</h2>
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr>
-    <td style="width: 70%; text-align: left; border: none;">
+    <td style="width: 70%; text-align: left; border: none; padding: 0;">
       <p>
         Soy un desarrollador apasionado por la programación y la tecnología, con experiencia en desarrollo web y software. Me encanta aprender nuevas tecnologías y trabajar en proyectos interesantes.
       </p>
     </td>
-    <td style="width: 30%; text-align: center; border: none;">
+    <td style="width: 30%; text-align: center; border: none; padding: 0;">
       <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" alt="About Me Gif"/>
     </td>
   </tr>
