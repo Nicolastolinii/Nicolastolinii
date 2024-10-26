@@ -57,7 +57,7 @@ Hi, I'm Nicolas Tolini!
   <table width="100%" align="center">
     <tr>
       <td width="50%" valign="top">
-        <h3><strong>Lᴀɴɢᴜᴀɢᴇs Sᴛᴀᴛs</strong></h3>
+        <h3 align="center"><strong>Lᴀɴɢᴜᴀɢᴇs Sᴛᴀᴛs</strong></h3>
         <p>
           <a href="https://github.com/Nicolastolinii">
             <img height="180em" width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nicolastolinii&layout=compact&langs_count=8&theme=nightowl"/>
@@ -65,7 +65,7 @@ Hi, I'm Nicolas Tolini!
         </p>
       </td>
       <td width="50%" valign="top">
-        <h3><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+        <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
         <p>
          <a href="https://github.com/Nicolastolinii">
             <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nicolastolinii&show_icons=true&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true"/>
@@ -74,7 +74,7 @@ Hi, I'm Nicolas Tolini!
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <h3><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+        <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
         <p>
           <a href="https://github.com/Nicolastolinii">
             <img src="https://github-contributor-stats.vercel.app/api?username=nicolastolinii&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
@@ -82,7 +82,7 @@ Hi, I'm Nicolas Tolini!
         </p>
       </td>
       <td width="50%" valign="top">
-        <h3><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+        <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
         <p>
           <a href="https://github.com/Nicolastolinii">
             <img src="https://streak-stats.demolab.com?user=nicolastolinii&theme=nightowl" alt="Streak Stats" />
