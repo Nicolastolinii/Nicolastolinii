@@ -7,9 +7,16 @@ Hɪ, ɪ'ᴍ Nɪᴄᴏʟᴀs Tᴏʟɪɴɪ!
 
 <br>
 <h2 align="center">ᴀʙᴏᴜᴛ ᴍᴇ 👨‍💻</h2>
-<p align="center">
-  Soy un desarrollador apasionado por la programación y la tecnología, con experiencia en desarrollo web y software. Me encanta aprender nuevas tecnologías y trabajar en proyectos interesantes.
-</p>
+<div style="display: flex; align-items: center; justify-content: center;">
+  <div style="flex: 1; padding: 10px; text-align: center;">
+    <p>
+      Soy un desarrollador apasionado por la programación y la tecnología, con experiencia en desarrollo web y software. Me encanta aprender nuevas tecnologías y trabajar en proyectos interesantes.
+    </p>
+  </div>
+  <div style="flex: 0 0 40%; padding: 10px; text-align: center;">
+    <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" alt="About Me Gif"/>
+  </div>
+</div>
 <br>
 
 
