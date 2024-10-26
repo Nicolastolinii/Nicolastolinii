@@ -7,16 +7,9 @@ Hɪ, ɪ'ᴍ Nɪᴄᴏʟᴀs Tᴏʟɪɴɪ!
 
 <br>
 <h2 align="center">ᴀʙᴏᴜᴛ ᴍᴇ 👨‍💻</h2>
-<div style="display: flex; align-items: center; justify-content: center;">
-  <div style="flex: 0 0 60%; padding: 10px; text-align: center;">
-    <p>
-      Soy un desarrollador apasionado por la programación y la tecnología, con experiencia en desarrollo web y software. Me encanta aprender nuevas tecnologías y trabajar en proyectos interesantes.
-    </p>
-  </div>
-  <div style="flex: 0 0 40%; padding: 10px; text-align: center;">
-    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif" alt="Chrome Dino" width="300px"/>
-  </div>
-</div>
+<p align="center">
+  Soy un desarrollador apasionado por la programación y la tecnología, con experiencia en desarrollo web y software. Me encanta aprender nuevas tecnologías y trabajar en proyectos interesantes.
+</p>
 <br>
 
 
