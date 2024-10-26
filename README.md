@@ -96,7 +96,7 @@ Hi, I'm Nicolas Tolini!
 <br />
 
 <div align="center">
-  <h2>🔥 Actividad Reciente</h2>
+  <h2>🔥 Recent activity</h2>
   <a href="https://github.com/Nicolastolinii">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nicolastolinii&theme=nightowl" alt="Actividad Reciente"/>
   </a>
