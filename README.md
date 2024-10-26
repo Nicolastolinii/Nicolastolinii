@@ -4,7 +4,6 @@ Hi, I'm Nicolas Tolini!
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
-<hr>
 
 <br>
 <h2 align="center">About Me 👨‍💻</h2>
