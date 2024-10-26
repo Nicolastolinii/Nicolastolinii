@@ -67,9 +67,8 @@ Hi, I'm Nicolas Tolini!
       <td width="50%" valign="top">
         <h3><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
         <p>
-          <a href="https://github.com/Nicolastolinii">
-            <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nicolastolinii&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-          </a>
+         <a href="https://github.com/Nicolastolinii">
+            <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nicolastolinii&show_icons=true&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true"/>
         </p>
       </td>
     </tr>
